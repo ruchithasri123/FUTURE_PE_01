@@ -27,3 +27,9 @@ The prompts were designed to:
 
 ## Output
 The generated copy was made for a café website and is ready to publish.
+
+## Live Website
+
+Bean & Brew Café Website:
+
+https://bean-brew-web.lovable.app/
